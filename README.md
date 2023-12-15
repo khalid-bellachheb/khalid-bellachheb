@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-** Khalid bellachheb ** Software Engineer in France
+**Khalid bellachheb** Software Engineer in France
 
-Here are some ideas to get you started:
+Some stuff about me : 
 
 - 🌱 I’m currently learning TypeScript and DevOps
 - 💬 Ask me about C#, .NET, Python, Blazor, Django
