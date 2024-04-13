@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Software Engineer Banner](./Images/profile%20github.png) <!-- Replace with your own banner image URL -->
+![Software Engineer Banner](./images/profile%20github.png) <!-- Replace with your own banner image URL -->
 
 ## I'm Khalid Bellachheb, a Passionate Software Engineer from France
 
